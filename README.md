@@ -74,4 +74,4 @@ These are my suggestions.
 
 ## License
 
-PAONIa is bassed on LARAVEL and is Free to use, under [Creative Commons 4.0](https://creativecommons.org/licenses/by/4.0/) **[thank me, somewhere, its fair]** and [MIT license](https://opensource.org/licenses/MIT).
+pickbBox is bassed on LARAVEL and is Free to use, under [Creative Commons 4.0](https://creativecommons.org/licenses/by/4.0/) **[thank me, somewhere, its fair]** and [MIT license](https://opensource.org/licenses/MIT).
