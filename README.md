@@ -60,13 +60,13 @@ Great suport for Livewire(Alpine) or Innertia(VueJS)
 But lots more to be striped and shape by yourself. 
 
 
-Dowload
-Composer install
-php artisan key:generate
-php artisan storage:link
-create db name and password
-php artisan migrate
-register and see what's in there
+- Dowload
+- composer install
+- php artisan key:generate
+- php artisan storage:link
+- create db name and password
+- php artisan migrate
+- register and see what's in there
 
 
 These are my suggestions. 
